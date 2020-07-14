@@ -17,5 +17,5 @@ History      : The present script is inspired from the 'Remove-ExchangeProxyAddr
 Purpose      : The present script can be used for mail objects cleanup prior to any migration from any Exchange version above Exchange 2010 to a higher or to Office 365. It will cleanup obsolete CC:MAIL and MSMAIL, or more if you wish (specify which address types in '**$UndesiredAddressTypes**' array) from ALL mail-enabled object types.  
 
 
-# Script usage:
+# Script usage
 To run the present script you need Exchange Admin privileges. Edit the **$UndesiredAddressTypes** array within the Script to specify which types of Proxy Addresses need to be removed.
