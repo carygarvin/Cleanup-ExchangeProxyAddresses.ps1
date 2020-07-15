@@ -4,7 +4,7 @@ PowerShell Script to remove undesired/obsolete Proxy Address types (CC:MAIL, MSM
 Author       : Cary GARVIN  
 Credit       : Aaron Guilmette  
 Contact      : cary(at)garvin.tech  
-LinkedIn     : https://www.linkedin.com/in/cary-garvin-99909582  
+LinkedIn     : https://www.linkedin.com/in/cary-garvin  
 GitHub       : https://github.com/carygarvin/  
 
 
