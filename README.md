@@ -18,4 +18,4 @@ Purpose      : The present script can be used for mail objects cleanup prior to 
 
 
 # Script usage
-To run the present script you need Exchange Admin privileges. Edit the **$UndesiredAddressTypes** array within the Script to specify which types of Proxy Addresses need to be removed.
+To run the present Script, you need Exchange Admin privileges. Edit the **$UndesiredAddressTypes** array within the Script to specify which types of Proxy Addresses need to be removed.
