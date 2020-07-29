@@ -4,11 +4,11 @@ PowerShell Script to remove undesired/obsolete Proxy Address types (CC:MAIL, MSM
 Author       : Cary GARVIN  
 Credit       : Aaron Guilmette  
 Contact      : cary(at)garvin.tech  
-LinkedIn     : https://www.linkedin.com/in/cary-garvin  
-GitHub       : https://github.com/carygarvin/  
+LinkedIn     : [https://www.linkedin.com/in/cary-garvin](https://www.linkedin.com/in/cary-garvin)  
+GitHub       : [https://github.com/carygarvin/](https://github.com/carygarvin/)  
 
 
-Script Name  : Cleanup-ExchangeProxyAddresses.ps1  
+Script Name  : [Cleanup-ExchangeProxyAddresses.ps1](https://github.com/carygarvin/Cleanup-ExchangeProxyAddresses.ps1)  
 Version      : 1.0  
 Release date : 28/04/2018 (CET)  
 
